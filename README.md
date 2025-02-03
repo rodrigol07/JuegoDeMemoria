@@ -44,6 +44,9 @@ El proyecto consta de los siguientes archivos principales:
 
 Haz clic en "Iniciar" o presiona Ctrl + F5 para ejecutar la aplicación web en tu navegador.
 
+"https://localhost:44358/Pages/JuegoMemoria"
+El puerto puede cambiar
+
 4. **Interacción con el Juego**:
 
    ```bash
@@ -92,7 +95,7 @@ Si el jugador gana (es decir, todas las cartas se han emparejado correctamente),
 
 El botón de Reiniciar Juego permite reiniciar la partida, barajando las cartas y comenzando de nuevo.
 
-**Capturas de pantalla**:
+**Capturas_de_pantalla**:
 
 1. ![Inicio](Capturas_de_pantalla/image-1.png)
 2. ![Error](Capturas_de_pantalla/image-2.png)
@@ -105,3 +108,4 @@ Eduardo Miguel Jaime Gomero
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
+
