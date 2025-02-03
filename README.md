@@ -104,7 +104,7 @@ El botón de Reiniciar Juego permite reiniciar la partida, barajando las cartas 
 
 
 ## Personas Desarrolladoras del Proyecto
-Eduardo Miguel Jaime Gomero
+Rodrigo Manuel De La Cruz Palacios
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
