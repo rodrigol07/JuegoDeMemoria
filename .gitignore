@@ -1,0 +1,38 @@
+# Archivos de Visual Studio
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug-vs2017/
+[Dd]ebug-vs2019/
+[Dd]ebug-x64/
+[Dd]ebug-x86/
+[Dd]Release/
+[Dd]ist/
+bin/
+obj/
+# Asp.Net
+*.pdb
+*.log
+*.vspscc
+# Archivos de dependencias de NuGet
+.nuget/
+# Archivos de configuración de entorno local
+appsettings.Development.json
+appsettings.Local.json
+
+# Archivos de datos de usuario
+*.sqlite
+*.db
+
+# Archivos temporales
+# Si no usas `npm` o `yarn` no es necesario
+node_modules/
